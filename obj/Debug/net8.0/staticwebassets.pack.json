@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Repos\\kerblam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\kerblam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\kerblam.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Repos\\kerblam\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Repos\\kerblam\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Repos\\kerblam\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Repos\\kerblam\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.kerblam.props",
+      "PackagePath": "build\\kerblam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.kerblam.props",
+      "PackagePath": "buildMultiTargeting\\kerblam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.kerblam.props",
+      "PackagePath": "buildTransitive\\kerblam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.kerblam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
